@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32263'
     url: http://www.gutenberg.org/2009/agents/32263
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30618#Wings-of-the-Wind
 gutenberg_issued: '2009-12-06'
 gutenberg_type: Text
 identifiers:
